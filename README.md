@@ -1,3 +1,6 @@
+## Home Page
+[natʇsu Gallery](https://nattsu628878.github.io/nattsu-gallery/pages/aboutme)
+
 ##### Languages
 ![Languages](https://skillicons.dev/icons?i=rust,c,cpp,js,ts,py)
 
