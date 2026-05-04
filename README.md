@@ -1,6 +1,6 @@
 ##### **Favorites**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,astro,bevy,vscode,godot,blender" alt="Favorites" />
+  <img src="https://skillicons.dev/icons?i=rust,tauri,svelte,astro,bevy" alt="Favorites" />
   <br />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
